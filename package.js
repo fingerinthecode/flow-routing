@@ -21,6 +21,7 @@ Package.onUse(function(api) {
     'kadira:flow-router',
     'underscore',
     'useraccounts:core',
+    'ecmascript',
     'modules'
   ], ['client', 'server']);
 
